@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1719273384 source:c:\users\fatec-dsm1\desktop\basico-de-linguagem-de-programacao-c\aulas\aula_05_operador_de_atribuicao\atribuicao_correta\main.c
+	<stdio.h>
+	<stdlib.h>
+
